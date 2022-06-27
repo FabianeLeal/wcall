@@ -97,7 +97,9 @@ h4, h5 {
     font-weight: bolder;
     background-color: rgba(249, 249, 249, 0.771);
     text-align: center;
-    margin-left: 462px;
+    /*margin-left: 462px;*/
+    margin: 0 10px;
+    width: 100%;
 }
 .sti1 {
     display: inline-block;
@@ -105,7 +107,9 @@ h4, h5 {
     font-weight: bolder;
     background-color: rgba(249, 249, 249, 0.771);
     text-align: center;
-    margin-left: 50px;
+    /*margin-left: 50px;*/
+    margin: 0 10px;
+    width: 100%;
     
 }
 td{
@@ -119,3 +123,8 @@ th {
     
 }
 
+section {
+   
+    padding: 80px;
+    
+}
